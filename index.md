@@ -5,6 +5,8 @@ title: Movies I like
 
 # {{title}}
 
+Some movies I like.
+
 <!-- {{movies}} -->
 
 <div class="items">
